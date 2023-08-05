@@ -37,6 +37,10 @@ li {
   font-weight: 600;
 }
 
+a {
+  color: #1e1e1e;
+}
+
 button {
   height: 56px;
   border-radius: 16px;
@@ -356,6 +360,7 @@ footer {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  margin-bottom: 16px;
 }
 
 .section-contact-item-icon {
