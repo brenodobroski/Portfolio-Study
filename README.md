@@ -13,3 +13,23 @@ The main goal is create a website whit professional information.
 - DOM manipulation
 - Events
 - CSS Media Query
+
+## Instructions to run:
+
+1. Clone the project:
+
+```
+git clone https://github.com/brenodobroski/Portfolio-Study.git
+```
+
+2. After clone open the folder:
+
+```
+Portfolio-Study
+```
+
+3. Open the index file with the browser:
+
+```
+index.html
+```
